@@ -1,0 +1,6 @@
+\contentsline {section}{\numberline {0.1}Il circuito LCLC ideale}{1}{}%
+\contentsline {subsection}{\numberline {0.1.1}Analogie con la linea di trasmissione e adattamento in potenza del filtro}{2}{}%
+\contentsline {section}{\numberline {0.2}Simulazione su SIMetrix del circuito ideale}{2}{}%
+\contentsline {subsection}{\numberline {0.2.1}Calcolo a priori della frequenza di risonanza e dei poli della funzione di trasferimento}{2}{}%
+\contentsline {subsection}{\numberline {0.2.2}Simulazione del circuito ideale non adattato in potenza}{3}{}%
+\contentsline {subsection}{\numberline {0.2.3}Simulazione del circuito ideale adattato in potenza}{5}{}%
